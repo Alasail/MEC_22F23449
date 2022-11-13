@@ -1,0 +1,4 @@
+read price of the bill,
+bill = 50,
+read the discount,
+discount = bill / 5,
